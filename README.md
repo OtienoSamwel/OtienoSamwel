@@ -1,4 +1,4 @@
-### Hi there 👋
+### I've seen the future. It's all code and mirrors.
 
 <!--
 **OtienoSamwel/OtienoSamwel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
