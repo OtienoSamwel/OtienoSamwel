@@ -2,17 +2,32 @@
 
 
 ```cli
-  • Android Developer 
+  • Android Developer
+  • Backend Kotlin/Java developer 
   • Kotlin Enthusiast
 ```
 
 ### 
   <table>
   <tr>
-      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact"/></td>      
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true&theme=tokyonight"/></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact&theme=tokyonight"/></td>      
   </tr>   
 </table>
+
+**Languages and Tools:**  
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/62b74b4ac11782e90fa7c275d62ad1a2855d403d/topics/google-cloud/google-cloud.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+
+
 
 
 <!--
