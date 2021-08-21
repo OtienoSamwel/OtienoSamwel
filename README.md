@@ -17,6 +17,7 @@
     <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OtienoSamwel&layout=compact"/></td>
   </tr>
 </table>
+<figure><embed src="https://wakatime.com/share/@OtienoSamwel/726bdbf2-4842-4ab8-9b5c-1f5c67fa5af4.svg"></embed></figure>
 
 **Languages and Tools:**  
 
