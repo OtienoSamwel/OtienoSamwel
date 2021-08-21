@@ -12,11 +12,9 @@
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true&theme=tokyonight"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact&theme=tokyonight"/></td>      
-  </tr>   
-    <tr>
-    <td><img align="center" src="https://wakatime.com/share/@OtienoSamwel/726bdbf2-4842-4ab8-9b5c-1f5c67fa5af4.svg"/></td>
-  </tr>
+
 </table>
+<hr/>
 
 
 **Languages and Tools:**  
