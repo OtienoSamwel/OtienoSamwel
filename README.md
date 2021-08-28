@@ -19,6 +19,14 @@
 </table>
 <hr/>
 
+<table>
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OtienoSamwel&layout=compact"/></td>
+  </tr>
+</table>
+
+<hr/>
+
 
 **Languages and Tools:**  
 
