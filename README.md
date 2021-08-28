@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OtienoSamwel&layout=compact"/></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OtienoSamwel&layout=compact&theme=tokyonight"/></td>
   </tr>
 </table>
 
