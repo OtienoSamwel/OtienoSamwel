@@ -1,5 +1,6 @@
 ### I've seen the future. It's all code and mirrors.
 <hr/>
+
 ```cli
   • Android Developer
   • Backend Kotlin/Java developer 
