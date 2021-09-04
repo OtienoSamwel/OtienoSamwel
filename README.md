@@ -9,8 +9,6 @@
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otienosamwel&label=Profile%20views&color=0e75b6&style=flat" alt="OtienoSamwel" /> </p>
 <hr/>
-### 
-
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
