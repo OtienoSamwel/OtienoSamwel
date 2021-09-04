@@ -6,6 +6,8 @@
   • Android Developer
   • Backend Kotlin/Java developer 
   • Kotlin Enthusiast
+  • I am always learning
+  
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otienosamwel&label=Profile%20views&color=0e75b6&style=flat" alt="OtienoSamwel" /> </p>
 <hr/>
@@ -17,14 +19,6 @@
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact&theme=tokyonight"/></td>      
 
 </table>
-<hr/>
-
-<table>
-  <tr>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=OtienoSamwel&layout=compact&theme=tokyonight"/></td>
-  </tr>
-</table>
-
 <hr/>
 <hr/>
 
