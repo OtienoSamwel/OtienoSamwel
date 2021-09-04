@@ -26,6 +26,7 @@
 </table>
 
 <hr/>
+<hr/>
 
 
 **Languages and Tools:**  
