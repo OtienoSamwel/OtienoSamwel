@@ -4,16 +4,16 @@
 ```kotlin
   • Kotlin Developer
 ```
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otienosamwel&label=Profile%20views&color=0e75b6&style=flat" alt="OtienoSamwel" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=otienosamwel&label=Profile%20views&color=0e75b6&style=flat" alt="OtienoSamwel" /> </p> -->
 <hr/>
-  <table>
+<!--   <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true&count_private=true&include_all_commits&theme=tokyonight"/></td>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact&theme=tokyonight"/></td>      
     <td><img width = "400px" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=otienosamwel&theme=tokyonight" alt="otienosamwel"/></td>
 </table>
 <hr/>
-
+ -->
 <!-- **Languages and Tools:** -->
 <!-- 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
