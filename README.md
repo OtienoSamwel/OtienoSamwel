@@ -3,6 +3,10 @@
 
 ```kotlin
   • Kotlin Developer
+  
+  fun create(coffee : Fuel): Code{
+      return code;
+  }
 ```
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=otienosamwel&label=Profile%20views&color=0e75b6&style=flat" alt="OtienoSamwel" /> </p> -->
 <hr/>
