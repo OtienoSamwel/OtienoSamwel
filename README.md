@@ -16,7 +16,8 @@ I love building projects using Kotlin . Python . TypeSript
   <table>
   <tr>
       <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=OtienoSamwel&show_icons=true"/></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact"/></td>      
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtienoSamwel&hide=css&layout=compact"/></td>     
+     <td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanKoech&show_icons=true&locale=en&layout=compact&theme=tokyonight"/></td>
   </tr>   
 </table>
 
