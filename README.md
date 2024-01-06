@@ -6,7 +6,7 @@
   </samp>
 </p>
 
-I love building projects using Koltin/Python/TypeSript
+I love building projects using Kotlin.Python.TypeSript
 
 ![](https://komarev.com/ghpvc/?username=katungi)
 
