@@ -6,6 +6,12 @@
   </samp>
 </p>
 
+I love building projects using Koltin/Python/TypeSript
+
+![](https://komarev.com/ghpvc/?username=katungi)
+
+ #### Checkout my Website : https://otienosamwel.com
+
 ### :octocat: My stats
   <table>
   <tr>
